@@ -1,0 +1,16 @@
+#include "Fcivector.h"
+
+#include <iostream>
+using namespace std;
+
+
+template <class t>
+void Fcivector<t>:: nada(t x)
+{
+    cout<<x;
+}
+
+void nada_(){
+Fcivector<float> jk;
+}
+

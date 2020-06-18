@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1577213468 source:e:\nada\assignmnt 3\src\course.cpp
+	"Course.h"
+
+1577205884 e:\nada\assignmnt 3\include\course.h
+	<iostream>
+
+1576834559 source:e:\nada\assignmnt 3\src\fcivector.cpp
+
+1577384952 source:e:\nada\assignmnt 3\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1577384686 e:\nada\assignmnt 3\include\student.h
+	<Fcivector.h>
+	<Course.h>
+	<iostream>
+
+1577457036 e:\nada\assignmnt 3\include\fcivector.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1577468736 source:e:\nada\assignmnt 3\main.cpp
+	<iostream>
+	<vector>
+	"Fcivector.h"
+	"Course.h"
+	"Student.h"
+	<windows.h>
+
+1577213468 source:e:\nada\nadahossam 20180308\src\course.cpp
+	"Course.h"
+
+1577205884 e:\nada\nadahossam 20180308\include\course.h
+	<iostream>
+
+1576834559 source:e:\nada\nadahossam 20180308\src\fcivector.cpp
+
+1577384952 source:e:\nada\nadahossam 20180308\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1577384686 e:\nada\nadahossam 20180308\include\student.h
+	<Fcivector.h>
+	<Course.h>
+	<iostream>
+
+1577606597 e:\nada\nadahossam 20180308\include\fcivector.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1577468799 source:e:\nada\nadahossam 20180308\main.cpp
+	<iostream>
+	<vector>
+	"Fcivector.h"
+	"Course.h"
+	"Student.h"
+	<windows.h>
+
